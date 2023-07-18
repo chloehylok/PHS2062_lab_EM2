@@ -1,0 +1,10 @@
+,unit,measurement,uncertainty
+Mass of beaker,g,84,1
+Inner radius of water tube,cm,1.321,0.001
+Magnetic field down the centre of the poles,,,
+B1,T,0.224,0.02
+B2 (middle),T,0.328,0.02
+B3,T,0.233,0.02
+Distance between magnetic poles,cm,2.554,0.001
+Gain of amplier,unitless,10,
+Hall effect terminal distance,cm,0.885,0.001
